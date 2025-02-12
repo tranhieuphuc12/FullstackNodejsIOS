@@ -9,7 +9,7 @@ A complete **FullStack application** with **iOS (SwiftUI), Next.js (React), and 
 - **Deployment:** Docker  
 
 ## # 📱 MyJournal - iOS App (SwiftUI)
-...
+https://github.com/tranhieuphuc12/MyJournalIOS.git
 
 ## 📂 Features  
 ✅ User authentication (Sign up, Login, Logout)  
