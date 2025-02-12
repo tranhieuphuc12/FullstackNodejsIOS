@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "67a9b0160bab1212dd03abe7"
+  },
+  "title": "post2",
+  "content": "post2",
+  "imageUrl": "https://i.pinimg.com/474x/89/c5/34/89c534fd27740f7e6cf34b1fef101277.jpg",
+  "user": {
+    "$oid": "67a570637b3f062ea95b3cd3"
+  },
+  "createdAt": {
+    "$date": "2025-02-10T07:51:50.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T07:51:50.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a9b0500bab1212dd03abf2"
+  },
+  "title": "post 1",
+  "content": "post 1",
+  "imageUrl": "https://i.pinimg.com/474x/44/d7/80/44d780e480cbf53ca7398a688fd5d609.jpg",
+  "user": {
+    "$oid": "67a570637b3f062ea95b3cd3"
+  },
+  "createdAt": {
+    "$date": "2025-02-10T07:52:48.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T07:52:48.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a9b06b0bab1212dd03abf7"
+  },
+  "title": "post 3",
+  "content": "post 3",
+  "imageUrl": "https://i.pinimg.com/474x/da/1d/b1/da1db1452129ce8557f08c8983403752.jpg",
+  "user": {
+    "$oid": "67a570637b3f062ea95b3cd3"
+  },
+  "createdAt": {
+    "$date": "2025-02-10T07:53:15.221Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T07:53:15.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa0cf00110aa162b195d18"
+  },
+  "title": "Post4",
+  "content": "Post4",
+  "imageUrl": "URLSession.shared.dataTask",
+  "user": {
+    "$oid": "67a570637b3f062ea95b3cd3"
+  },
+  "createdAt": {
+    "$date": "2025-02-10T14:28:00.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T14:28:00.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa0e580110aa162b195d1b"
+  },
+  "title": "Post5",
+  "content": "Post5",
+  "imageUrl": "https://i.pinimg.com/474x/13/ab/5b/13ab5b3b037dfeb9fab473e156b5a023.jpg",
+  "user": {
+    "$oid": "67a570637b3f062ea95b3cd3"
+  },
+  "createdAt": {
+    "$date": "2025-02-10T14:34:00.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T14:34:00.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa0ef70110aa162b195d1f"
+  },
+  "title": "Post6",
+  "content": "Post6",
+  "imageUrl": "https://i.pinimg.com/474x/22/c6/79/22c6796b37727ebbbdb847f568923df6.jpg",
+  "user": {
+    "$oid": "67a570637b3f062ea95b3cd3"
+  },
+  "createdAt": {
+    "$date": "2025-02-10T14:36:39.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T03:20:20.663Z"
+  },
+  "__v": 0
+}]
